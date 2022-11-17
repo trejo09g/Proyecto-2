@@ -7,7 +7,7 @@ package proyecto.pkg2;
 
 /**
  *
- * @author gerag
+ * @author Adan Trejo
  */
 public class Proyecto2 {
 
